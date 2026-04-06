@@ -23,7 +23,8 @@
     "hh-mm-ss": "^1.2.0",
     "hjson": "^3.2.2",
     "json-text-sequence": "^3.0.1",
-    "pg": "^8.7.1",
+    "pg": "^8.20.0",
+    "pg-cursor": "^2.19.0",
     "prettysize": "^2.0.0",
     "winston": "^3.4.0",
     "winston-daily-rotate-file": "^5.0.0"
